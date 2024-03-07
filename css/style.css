@@ -1,0 +1,33 @@
+body {
+    background-color: #fdf3f3;
+    color: #000000;
+}
+
+.contenedor {
+    background: #9f62f3;
+    font-size: 2rem;
+    display: inline-table;
+    border: solid #000000 4px;
+    border-radius: 13px;
+    padding: 10px;
+    margin: 1;
+}
+.btn{
+    margin: 0;
+}
+
+#resultado{
+    background: white;
+    padding: 10px  10px 10px 10px;
+    color: rgb(0, 0, 0);
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border: 0;
+}
+
+button:hover {
+    background-color: rgb(163, 158, 147);
+}
